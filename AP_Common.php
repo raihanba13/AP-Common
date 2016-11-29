@@ -3,7 +3,7 @@
    /**
     * A class with common and advance functionality to make custom development faster ;)
     *
-    * @package AP_Common
+    * @package APCommon
     * @author S.M.A Sayem Prodhan Ananta
     * @version 0.1
     **/
