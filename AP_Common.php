@@ -1,4 +1,5 @@
 <?php
+   namespace APCommon;
    /**
     * A class with common and advance functionality to make custom development faster ;)
     *
@@ -6,7 +7,7 @@
     * @author S.M.A Sayem Prodhan Ananta
     * @version 0.1
     **/
-   class AP_Common
+   class APCommon
    {
          
          function time_ago($time="")
@@ -60,7 +61,7 @@
                      return $retval;
                }
          }//end time_ago()
-   } // END class AP_Common
+   } // END class APCommon
    
  
    
