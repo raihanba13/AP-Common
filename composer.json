@@ -17,8 +17,8 @@
         "php": ">=5.1.0"
     },
     "autoload": {
-        "psr-0": {
-            "AP_Common": "src"
+        "psr-4": {
+            "APCommon\\": "src/AP-Common/"
         }
     }
 }
